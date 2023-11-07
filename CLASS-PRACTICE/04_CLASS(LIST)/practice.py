@@ -1,3 +1,2 @@
-names : list[str]
-names = ["Jawwad Ahmad", "Hammad Ahmad", "Afnan Akram"]
-print(names)
+names: list[str] = ["jawwad", "hammad", "sufyan", "talha"]
+names.insert()
